@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1663411893 source:c:\users\vipbi\desktop\sprint01\t07\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
